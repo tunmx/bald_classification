@@ -5,7 +5,7 @@
 
 训练数据集基于Kaggle上的Bald Classification Dataset。
 
-模型大小在1.8M左右
+模型大小在1.8M左右。
 
 需要安装TensorFlow+keras
 
